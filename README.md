@@ -11,7 +11,6 @@ install the job by doing `mdoc install .`, and run `mdoc foo`.  If you install t
 `mdoc list-jobs`.
 
 ####Project Structure
----------------------
 
 ```
 ├── README.md
@@ -38,5 +37,5 @@ would work exactly the same, `mdoc .` or `mdoc foo` if it is installed.
 
 
 ####Accessing Your Job From Github
-----------------------------------
+
 
