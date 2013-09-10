@@ -21,7 +21,6 @@ Project Structure
 ├── gradle.properties
 ├── gradlew
 ├── gradlew.bat
-├── metridoc-template-job.iml
 └── src
     ├── main
     │   └── groovy
