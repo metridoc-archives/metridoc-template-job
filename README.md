@@ -10,8 +10,8 @@ install the job by doing `mdoc install .`, and run `mdoc foo`.  If you install t
 `~/.metridoc/jobs`.  Any subsequant installs will overwrite the job.  To see what jobs you have installed, simply run
 `mdoc list-jobs`.
 
-Project Structure
------------------
+####Project Structure
+---------------------
 
 ```
 ├── README.md
@@ -37,6 +37,6 @@ you can change this.  If the project name is `metridoc-job-foo`, you can name th
 would work exactly the same, `mdoc .` or `mdoc foo` if it is installed.
 
 
-Accessing Your Job From Github
-------------------------------
+####Accessing Your Job From Github
+----------------------------------
 
